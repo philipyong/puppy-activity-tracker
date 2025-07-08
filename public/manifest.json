@@ -1,0 +1,23 @@
+{
+  "name": "Puppy Activity Tracker",
+  "short_name": "PuppyTracker",
+  "description": "Track your puppy's daily activities with love",
+  "theme_color": "#f97316",
+  "background_color": "#fff7ed",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
